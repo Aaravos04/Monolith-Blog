@@ -143,5 +143,5 @@ PASSWORD_RESET_URL = "http://localhost:5173/reset-password"
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://your-frontend.vercel.app",
+    "https://monolith-blog-cj2i.vercel.app",
 ]
